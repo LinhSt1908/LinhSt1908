@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Linh
 - :tropical_fish: I´m currently attending a bootcamp at neuefische
-- 💻 I’m currently learning how to become a web developer
+- 💻 I want to learn how to become a web developer
 - :speech_balloon: I speak German, English, Chinese, Vietnamese
 - 
 
